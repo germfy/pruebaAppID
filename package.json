@@ -9,7 +9,7 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.18.2",
     "express-session": "^1.16.2",
     "ibmcloud-appid": "^6.0.0",
     "morgan": "~1.9.1",
